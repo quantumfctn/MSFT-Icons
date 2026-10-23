@@ -1,0 +1,29 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_545_73)">
+<path d="M0.751953 8.72188C0.751953 4.32021 4.32021 0.751953 8.72188 0.751953H88.4212C92.8228 0.751953 96.3911 4.32021 96.3911 8.72188V88.4212C96.3911 92.8228 92.8228 96.3911 88.4212 96.3911H8.72188C4.32021 96.3911 0.751953 92.8228 0.751953 88.4212V8.72188Z" fill="url(#paint0_radial_545_73)"/>
+<path d="M104.361 8.72188C104.361 4.32021 107.929 0.751953 112.331 0.751953H192.03C196.432 0.751953 200 4.32021 200 8.72188V88.4212C200 92.8228 196.432 96.3911 192.03 96.3911H112.331C107.929 96.3911 104.361 92.8228 104.361 88.4212V8.72188Z" fill="url(#paint1_radial_545_73)"/>
+<path d="M104.361 112.331C104.361 107.929 107.929 104.361 112.331 104.361H192.03C196.432 104.361 200 107.929 200 112.331V192.03C200 196.432 196.432 200 192.03 200H112.331C107.929 200 104.361 196.432 104.361 192.03V112.331Z" fill="url(#paint2_radial_545_73)"/>
+<path d="M0.751953 112.331C0.751953 107.929 4.32021 104.361 8.72188 104.361H88.4212C92.8228 104.361 96.3911 107.929 96.3911 112.331V192.03C96.3911 196.432 92.8228 200 88.4212 200H8.72188C4.32021 200 0.751953 196.432 0.751953 192.03V112.331Z" fill="url(#paint3_radial_545_73)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_545_73" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.751953 0.751953) rotate(45) scale(281.779)">
+<stop stop-color="#7FDEFF"/>
+<stop offset="1" stop-color="#0C9DFF"/>
+</radialGradient>
+<radialGradient id="paint1_radial_545_73" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.751953 0.751953) rotate(45) scale(281.779)">
+<stop stop-color="#7FDEFF"/>
+<stop offset="1" stop-color="#0C9DFF"/>
+</radialGradient>
+<radialGradient id="paint2_radial_545_73" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.751953 0.751953) rotate(45) scale(281.779)">
+<stop stop-color="#7FDEFF"/>
+<stop offset="1" stop-color="#0C9DFF"/>
+</radialGradient>
+<radialGradient id="paint3_radial_545_73" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(0.751953 0.751953) rotate(45) scale(281.779)">
+<stop stop-color="#7FDEFF"/>
+<stop offset="1" stop-color="#0C9DFF"/>
+</radialGradient>
+<clipPath id="clip0_545_73">
+<rect width="200" height="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>

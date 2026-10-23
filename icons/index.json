@@ -1,0 +1,1125 @@
+{
+  "config_hash": "7198728b8c8d46e6edddef77b747d75f3aaa27f64bd048f5886045b0759c8443",
+  "figma_version": null,
+  "file_key": "Dc9hrEER6fgmrXVmOIImJT",
+  "icons": [
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=109%3A959",
+      "id": "109:959",
+      "name": "Purview",
+      "page": "Archive",
+      "path": "icons/archive--686-155/purview--109-959.svg",
+      "sha256": "476a3eada5bf6071913be33a7222a719839c03328c25f6375e0a3d3676e0e6c0"
+    },
+    {
+      "contains_raster": true,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120294",
+      "id": "28:120294",
+      "name": "Skype",
+      "page": "Archive",
+      "path": "icons/archive--686-155/skype--28-120294.svg",
+      "sha256": "6198157251e0b8474876a05c477f15aa3506344509678f6deb9da753fb0e41a1"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=504%3A12",
+      "id": "504:12",
+      "name": "Syntex",
+      "page": "Archive",
+      "path": "icons/archive--686-155/syntex--504-12.svg",
+      "sha256": "f763cd03ec3078e81800fcfbec951ac1bc65c147c94c31581deae0fbe3b8c168"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=546%3A90",
+      "id": "546:90",
+      "name": "Tasks by Planner and To Do",
+      "page": "Archive",
+      "path": "icons/archive--686-155/tasks-by-planner-and-to-do--546-90.svg",
+      "sha256": "5a5948cfe32bcdf143405e8b45c77b87b512a071b569c5bac63c968cd40f1894"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3639",
+      "id": "3:3639",
+      "name": "Viva Sales",
+      "page": "Archive",
+      "path": "icons/archive--686-155/viva-sales--3-3639.svg",
+      "sha256": "b2b882c1aa0f9097916576f133ca36bc8b57c1c504a658826adf42534c1a72b4"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3636",
+      "id": "3:3636",
+      "name": "Viva Topics",
+      "page": "Archive",
+      "path": "icons/archive--686-155/viva-topics--3-3636.svg",
+      "sha256": "b18c8b632cc410240b4efed0538d7066230be86733f84092561386352b6774dc"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120296",
+      "id": "28:120296",
+      "name": "Yammer",
+      "page": "Archive",
+      "path": "icons/archive--686-155/yammer--28-120296.svg",
+      "sha256": "f6443c4f6787964358322cc1a21b4ef00efdaee025443a0796918f0f4a434677"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=108%3A211",
+      "id": "108:211",
+      "name": "Admin",
+      "page": "Icons",
+      "path": "icons/icons--0-1/admin--108-211.svg",
+      "sha256": "fd572f2670c185406d55045604e18250a3134c854301a1fb2260caae34296d15"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=2923%3A224",
+      "id": "2923:224",
+      "name": "Agent 365",
+      "page": "Icons",
+      "path": "icons/icons--0-1/agent-365--2923-224.svg",
+      "sha256": "c70cc475934cc22eecec060afb90061024fa2bfb928b7f343567490156919cde"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A613",
+      "id": "27:613",
+      "name": "AIBuilder_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/aibuilder-scalable--27-613.svg",
+      "sha256": "3d5de60b85c83936b30bb4bd6c5f07596292e3e2c47917e03c8c57b908c0a0e9"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=108%3A241",
+      "id": "108:241",
+      "name": "Azure",
+      "page": "Icons",
+      "path": "icons/icons--0-1/azure--108-241.svg",
+      "sha256": "995f9057735bac3be58fb54bfa6a7944b0014467790c6307d71b406dff47fe9b"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=677%3A49",
+      "id": "677:49",
+      "name": "Azure AI Studio",
+      "page": "Icons",
+      "path": "icons/icons--0-1/azure-ai-studio--677-49.svg",
+      "sha256": "999e565c11dcbaaf02de0ed894797364c1cfa2c699958f8c1febb4c4cbea351f"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=545%3A39",
+      "id": "545:39",
+      "name": "Bing",
+      "page": "Icons",
+      "path": "icons/icons--0-1/bing--545-39.svg",
+      "sha256": "ebd25d8219a3af688ef46982284de16422f8193928a9e503ef17099742a24260"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120305",
+      "id": "28:120305",
+      "name": "BusinessCentral_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/businesscentral-scalable--28-120305.svg",
+      "sha256": "f8d0773574eb31b6fc98ad8648826c2192d98c9ee4fbe8fb0ec06a67f4e23cca"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=116%3A1013",
+      "id": "116:1013",
+      "name": "Calendar",
+      "page": "Icons",
+      "path": "icons/icons--0-1/calendar--116-1013.svg",
+      "sha256": "754e268d0137b394f53bbd30da14fdcdc0928daa70b64d2b667a563e8deadd87"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=692%3A3143",
+      "id": "692:3143",
+      "name": "Clipchamp",
+      "page": "Icons",
+      "path": "icons/icons--0-1/clipchamp--692-3143.svg",
+      "sha256": "12edabc97e08373541ebedcf613dfc0447f6567a244cecd6b766f069e3a3c92a"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120304",
+      "id": "28:120304",
+      "name": "Commerce_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/commerce-scalable--28-120304.svg",
+      "sha256": "fedec067e0938b2ca3aa689c1c8e1f95d50380dacf77669553e81e21b6289567"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=116%3A3136",
+      "id": "116:3136",
+      "name": "Compliance",
+      "page": "Icons",
+      "path": "icons/icons--0-1/compliance--116-3136.svg",
+      "sha256": "3f5982dd25655f8f994f1c2d9ec6a56bdd45ae90be72a4ee0ce6a005af3640e5"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120303",
+      "id": "28:120303",
+      "name": "ConnectedStore_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/connectedstore-scalable--28-120303.svg",
+      "sha256": "8c52a694b118e97c65b6fb9bd5c86bd63f9109c331f4718727da4d919af2cb11"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=2923%3A208",
+      "id": "2923:208",
+      "name": "Copilot Agent Builder",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-agent-builder--2923-208.svg",
+      "sha256": "026fc2971b7d0d2942ac116e48560b7c4febbc0631cfe06af1d0d329991e67cb"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=2923%3A219",
+      "id": "2923:219",
+      "name": "Copilot Cowork",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-cowork--2923-219.svg",
+      "sha256": "ca9d42aae828c0dcb166181706d0e67cfdf19cf7a840ed58c23507c480923f24"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=686%3A152",
+      "id": "686:152",
+      "name": "Copilot for Finance",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-for-finance--686-152.svg",
+      "sha256": "69af89a111ff78125d03340a28d841cbac4de9300cb1fa6e67794ecf5ddb0d3b"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=686%3A151",
+      "id": "686:151",
+      "name": "Copilot for Sales",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-for-sales--686-151.svg",
+      "sha256": "976b3680831e993c8bfe2742885407e69f6e4bcf3313c40a0f9f1290689ec355"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=686%3A154",
+      "id": "686:154",
+      "name": "Copilot for Security",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-for-security--686-154.svg",
+      "sha256": "ca9d42aae828c0dcb166181706d0e67cfdf19cf7a840ed58c23507c480923f24"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=686%3A153",
+      "id": "686:153",
+      "name": "Copilot for Service",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-for-service--686-153.svg",
+      "sha256": "168316bc96f7ef09163a674e340029a709757e33d13615b5c68d42b733005fd1"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=532%3A1603",
+      "id": "532:1603",
+      "name": "Copilot in Excel",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-in-excel--532-1603.svg",
+      "sha256": "0727e15d9b10c3d11592487486e752fadf287e31d786cfba243c20d22cf53bc7"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=532%3A1602",
+      "id": "532:1602",
+      "name": "Copilot in Outlook / Word",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-in-outlook-word--532-1602.svg",
+      "sha256": "5449665b59c07847aa8c83b9ca7d545320059e142c2e8d901a9c479319615fc1"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=532%3A1604",
+      "id": "532:1604",
+      "name": "Copilot in PowerPoint",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-in-powerpoint--532-1604.svg",
+      "sha256": "42353dc383cfe24b9ff3211226144f99908c90de0ed35ea89cb03dab037e45ae"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=532%3A1601",
+      "id": "532:1601",
+      "name": "Copilot in Teams / OneNote / Loop",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-in-teams-onenote-loop--532-1601.svg",
+      "sha256": "785718408fb6629d16200db5656697119f33971451826e12fecedd1bace13fee"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=621%3A32",
+      "id": "621:32",
+      "name": "Copilot Outline",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-outline--621-32.svg",
+      "sha256": "65f834eb5767f41a8d1237873e4a44171bccb4abb76488f6b4909252d1358dc4"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=546%3A319",
+      "id": "546:319",
+      "name": "Copilot Outline in Excel",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-outline-in-excel--546-319.svg",
+      "sha256": "1c14571b22fc5efe521d3728cfef9aa340dfde49c326b0fe4b0f8e567dff85fb"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=546%3A320",
+      "id": "546:320",
+      "name": "Copilot Outline in PowerPoint",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-outline-in-powerpoint--546-320.svg",
+      "sha256": "637d024331c0e13e04a551b326a8b2e248710e3cacd1c64656619fa30fc253e8"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=546%3A280",
+      "id": "546:280",
+      "name": "Copilot Outline in Word",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-outline-in-word--546-280.svg",
+      "sha256": "22e30237f547fa4fb0bcdbedc88e4d0826a7c4b223e00e44d2545f231b0c72c8"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=532%3A1415",
+      "id": "532:1415",
+      "name": "Copilot Studio",
+      "page": "Icons",
+      "path": "icons/icons--0-1/copilot-studio--532-1415.svg",
+      "sha256": "31f000039c1201a9b0d164a496ad51537835c96a0f55dcf96d3afb5d0fb5bca6"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120302",
+      "id": "28:120302",
+      "name": "CoreHR_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/corehr-scalable--28-120302.svg",
+      "sha256": "9e0146b0cda2df5db11ef884b8703b687e1c681178a5bdd3ab4344b0556e9b2d"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120301",
+      "id": "28:120301",
+      "name": "CustomerInsights_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/customerinsights-scalable--28-120301.svg",
+      "sha256": "3a431f53880c1361f8bf8fb04e44d1a1917883108703eb6d9c81432618a9ffab"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120325",
+      "id": "28:120325",
+      "name": "CustomerService_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/customerservice-scalable--28-120325.svg",
+      "sha256": "ed98abd4ed60d422ae7e7b7ee99432b519e2ad4a73df2e1ed49e1fd614a02d39"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120324",
+      "id": "28:120324",
+      "name": "CustomerServiceInsights_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/customerserviceinsights-scalable--28-120324.svg",
+      "sha256": "9f53286d8297d86f87640c86c9f16ac64363d5094b9d7eb343cdbce0a8771e75"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120323",
+      "id": "28:120323",
+      "name": "CustomerVoice_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/customervoice-scalable--28-120323.svg",
+      "sha256": "eb7d4ecf88f448dd0c5cc666e6e84a58290b3ee3899c7e65413f916cb5e59e02"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3445",
+      "id": "694:3445",
+      "name": "Data Activator",
+      "page": "Icons",
+      "path": "icons/icons--0-1/data-activator--694-3445.svg",
+      "sha256": "b0451d83dcb68ed26ed76da0de9682c3ecb8dbf1d9f63f1111028360a442ccc0"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3449",
+      "id": "694:3449",
+      "name": "Data Factory",
+      "page": "Icons",
+      "path": "icons/icons--0-1/data-factory--694-3449.svg",
+      "sha256": "f399765ca9013447a30ae9890e587a1ffe077273aa6be7eb382763503041c741"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A615",
+      "id": "27:615",
+      "name": "Dataverse_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/dataverse-scalable--27-615.svg",
+      "sha256": "397280835a97f81c6804b6d3c3b430185e51838c56829ec2dc5d8390843fee33"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=753%3A64",
+      "id": "753:64",
+      "name": "Defender",
+      "page": "Icons",
+      "path": "icons/icons--0-1/defender--753-64.svg",
+      "sha256": "c5675c668572d1e9d67c97e888ccadc2eff5b622985458c8b2cdcd8064224623"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=690%3A3104",
+      "id": "690:3104",
+      "name": "Designer",
+      "page": "Icons",
+      "path": "icons/icons--0-1/designer--690-3104.svg",
+      "sha256": "4ad76bb52b34b107f3baa87fd2cc98b201051d6277091e4506357d197aa57b04"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120300",
+      "id": "28:120300",
+      "name": "Dynamics365_scalable 1",
+      "page": "Icons",
+      "path": "icons/icons--0-1/dynamics365-scalable-1--28-120300.svg",
+      "sha256": "72bb075c06c69b300e8411eec8cb23a7cd295d1507e4a116064f2974b7cfc4d6"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=690%3A3105",
+      "id": "690:3105",
+      "name": "Edge",
+      "page": "Icons",
+      "path": "icons/icons--0-1/edge--690-3105.svg",
+      "sha256": "09201656e4998cb7675109ed602ba94212ff5f1f4dcb97354ff62f84dae76576"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=114%3A987",
+      "id": "114:987",
+      "name": "Entra",
+      "page": "Icons",
+      "path": "icons/icons--0-1/entra--114-987.svg",
+      "sha256": "adf795f8a64321e6514082d63d37b81ea22a5be17eb71ef959e9fe0ce776663e"
+    },
+    {
+      "contains_raster": true,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120289",
+      "id": "28:120289",
+      "name": "Excel",
+      "page": "Icons",
+      "path": "icons/icons--0-1/excel--28-120289.svg",
+      "sha256": "ffc28308639cde94789372df5fb4cbff1c22ec808dd9ebbd9947054ca25b2620"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=693%3A3292",
+      "id": "693:3292",
+      "name": "Fabric",
+      "page": "Icons",
+      "path": "icons/icons--0-1/fabric--693-3292.svg",
+      "sha256": "854c6abb2c13a6375dc5d272182ed5d24269b8fa986d2f678b396f49818f87dc"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120322",
+      "id": "28:120322",
+      "name": "FieldService_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/fieldservice-scalable--28-120322.svg",
+      "sha256": "661d446ed1796b2dd188cde3a6bcfd12b6171da5fd1d599a0845b2265593fb31"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120320",
+      "id": "28:120320",
+      "name": "Finance+Operations_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/finance-operations-scalable--28-120320.svg",
+      "sha256": "7f4dbf92f4f317cab8f9280479ded25e0701ccecb6f80e4c0be76c3505c6ee96"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120321",
+      "id": "28:120321",
+      "name": "Finance_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/finance-scalable--28-120321.svg",
+      "sha256": "59f0e3f224aa960c2f529d99294420eaa46d3ed161356539c408f420d473c545"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=108%3A171",
+      "id": "108:171",
+      "name": "Forms",
+      "page": "Icons",
+      "path": "icons/icons--0-1/forms--108-171.svg",
+      "sha256": "ca0b142cbd8e02537dc428337606ebb89820b6de8d232cda43805777172edd22"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120319",
+      "id": "28:120319",
+      "name": "FraudProtection_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/fraudprotection-scalable--28-120319.svg",
+      "sha256": "cc2d65c01f007f9b74c32540289ae7157738cb60e2203aa891f09fa66946e8c4"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=734%3A2165",
+      "id": "734:2165",
+      "name": "GitHub",
+      "page": "Icons",
+      "path": "icons/icons--0-1/github--734-2165.svg",
+      "sha256": "69558381887a55bef1aaf6a772beb6d7935231276d8682a456ea357437f8ad42"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=734%3A60",
+      "id": "734:60",
+      "name": "GitHub Copilot",
+      "page": "Icons",
+      "path": "icons/icons--0-1/github-copilot--734-60.svg",
+      "sha256": "74c4830d805fa07404be7e377791c91cca07133be7216e62bb587d97dab8d81d"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120327",
+      "id": "28:120327",
+      "name": "Guides_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/guides-scalable--28-120327.svg",
+      "sha256": "b7220d421e6f36a832cbaa624c8f8154f9dd9b7d0c020fe33eebc880a393e1d8"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120326",
+      "id": "28:120326",
+      "name": "ImportTool_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/importtool-scalable--28-120326.svg",
+      "sha256": "a9ffd3376568c96eda8cde32edeb2f0f497b9c737890461cf397f399df5d80b2"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120318",
+      "id": "28:120318",
+      "name": "IntelligentOrderManagement_scalable (1)",
+      "page": "Icons",
+      "path": "icons/icons--0-1/intelligentordermanagement-scalable-1--28-120318.svg",
+      "sha256": "6c3fdfecfa8ae3fc4fe80847219303688fffc3b54ec7aa32b18f9b1456cb3b89"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120332",
+      "id": "28:120332",
+      "name": "Layout_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/layout-scalable--28-120332.svg",
+      "sha256": "c48bf172f3f2f32f9ddf322916ce1821e1062ab2bfc67466312235b348d5a03f"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120292",
+      "id": "28:120292",
+      "name": "Lists",
+      "page": "Icons",
+      "path": "icons/icons--0-1/lists--28-120292.svg",
+      "sha256": "66289a7165fc476035303dbc6eccdf0fd5f48f92a9290b96afdea363a8cddc8d"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=690%3A3103",
+      "id": "690:3103",
+      "name": "Loop",
+      "page": "Icons",
+      "path": "icons/icons--0-1/loop--690-3103.svg",
+      "sha256": "d124266eb56b272c4973ec705b4056e1179dde79cfba8895dbc3812b4fc4a8bf"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120317",
+      "id": "28:120317",
+      "name": "Marketing_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/marketing-scalable--28-120317.svg",
+      "sha256": "c1e10ebfec9c0e1756a3bae53df9a4850fe263098c46570b9b0766a4163c931b"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120316",
+      "id": "28:120316",
+      "name": "MarketInsights_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/marketinsights-scalable--28-120316.svg",
+      "sha256": "1faa09b4d01ff1be9741a074729f1409efda7973a9801bdc5b1c79fbbd0ba489"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=103%3A57",
+      "id": "103:57",
+      "name": "Microsoft 365",
+      "page": "Icons",
+      "path": "icons/icons--0-1/microsoft-365--103-57.svg",
+      "sha256": "1df4eaedc9e7fde654743dc9a6eb2f39ac42d1d74651e49e48239a3f90df8e72"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=2702%3A184",
+      "id": "2702:184",
+      "name": "Microsoft 365 Copilot",
+      "page": "Icons",
+      "path": "icons/icons--0-1/microsoft-365-copilot--2702-184.svg",
+      "sha256": "088f7615105fa9f1a44a1a0d7ad52d0d3f269bad62c25bcf29248f581e08b551"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=614%3A50",
+      "id": "614:50",
+      "name": "Microsoft 365 Copilot",
+      "page": "Icons",
+      "path": "icons/icons--0-1/microsoft-365-copilot--614-50.svg",
+      "sha256": "03243eeb745082522b20fb26a5d02db2e3f2679186f7b966c69cc76cccaedfc5"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=690%3A3030",
+      "id": "690:3030",
+      "name": "Microsoft 366_B&W",
+      "page": "Icons",
+      "path": "icons/icons--0-1/microsoft-366-b-w--690-3030.svg",
+      "sha256": "3ac61ec428f5fdddcac5940345d4eda99ec1614774904f548e8f1106881124f9"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120331",
+      "id": "28:120331",
+      "name": "MRPortal_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/mrportal-scalable--28-120331.svg",
+      "sha256": "d3dd75b7b48ef10b293b1e05777c33a9eba480ea3a50a9d571bb0770a5ff157b"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=546%3A213",
+      "id": "546:213",
+      "name": "New Outlook",
+      "page": "Icons",
+      "path": "icons/icons--0-1/new-outlook--546-213.svg",
+      "sha256": "766a2e6dbdc32221e830dd128130d494e1a56c6840ab64f36c8c4af4456ec979"
+    },
+    {
+      "contains_raster": true,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120298",
+      "id": "28:120298",
+      "name": "OneDrive",
+      "page": "Icons",
+      "path": "icons/icons--0-1/onedrive--28-120298.svg",
+      "sha256": "74a43ea222814a7f6170b20795ee0655d3c4073d2e16d59bd85ab84147086f7b"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3451",
+      "id": "694:3451",
+      "name": "OneLake",
+      "page": "Icons",
+      "path": "icons/icons--0-1/onelake--694-3451.svg",
+      "sha256": "2f556173906c218766e086c6a88013779fee2ab1b641ad5875e43e43cd949363"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120287",
+      "id": "28:120287",
+      "name": "OneNote",
+      "page": "Icons",
+      "path": "icons/icons--0-1/onenote--28-120287.svg",
+      "sha256": "30c6b8a4cd7a2ffbffc57c88a7503d8331e46bf90114023c59ed940846018f74"
+    },
+    {
+      "contains_raster": true,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120295",
+      "id": "28:120295",
+      "name": "Outlook",
+      "page": "Icons",
+      "path": "icons/icons--0-1/outlook--28-120295.svg",
+      "sha256": "90d5ac614174d8ead4de2e2892f09cbc87257374dc71ad5e220e83609897a374"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3464",
+      "id": "694:3464",
+      "name": "Outlook_B&W",
+      "page": "Icons",
+      "path": "icons/icons--0-1/outlook-b-w--694-3464.svg",
+      "sha256": "c21b54fceecfc4938d60b0d02caf7aba341f2a51cc2b1347f9665a8b58927cb1"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=108%3A947",
+      "id": "108:947",
+      "name": "People",
+      "page": "Icons",
+      "path": "icons/icons--0-1/people--108-947.svg",
+      "sha256": "eba19e4733aeeabe33add0d9e2162bd01a47e1b5ac0487281afd5d565ed86b4b"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=710%3A53",
+      "id": "710:53",
+      "name": "Places",
+      "page": "Icons",
+      "path": "icons/icons--0-1/places--710-53.svg",
+      "sha256": "35fc748b039804c1e23394503413e29b22cb9798e36393599c40848b497089f0"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=108%3A49",
+      "id": "108:49",
+      "name": "Planner",
+      "page": "Icons",
+      "path": "icons/icons--0-1/planner--108-49.svg",
+      "sha256": "5227afb911b3fce7679ecfc9a16a97139c4b9a91694453acc47cdc9d7d8c3f57"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=686%3A149",
+      "id": "686:149",
+      "name": "Planner",
+      "page": "Icons",
+      "path": "icons/icons--0-1/planner--686-149.svg",
+      "sha256": "9da7bb96c45fd48f7d169ad971a9ed20b223fc28ed540a1efb8084bab0a2de24"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A610",
+      "id": "27:610",
+      "name": "PowerApps_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powerapps-scalable--27-610.svg",
+      "sha256": "cdb52737b458605dcf65340fe2d180228b5b261d4f90f0cc55155ef095a9e57a"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A609",
+      "id": "27:609",
+      "name": "PowerAutomate_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powerautomate-scalable--27-609.svg",
+      "sha256": "269d1ac2f221ed126b0ecf63b5652a47a3c9b2bdb89f1c3bcb15a2dca597477f"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A611",
+      "id": "27:611",
+      "name": "PowerBI_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powerbi-scalable--27-611.svg",
+      "sha256": "ba72662d9e7399b75f657cd7e6fedec5d55a92f716cf6f21eb6df193f36e0370"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A614",
+      "id": "27:614",
+      "name": "PowerFx_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powerfx-scalable--27-614.svg",
+      "sha256": "891dda044c02a809a161e189125c67312662412b978cbf925a756cfd8c76c247"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A612",
+      "id": "27:612",
+      "name": "PowerPages_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powerpages-scalable--27-612.svg",
+      "sha256": "5ae811fb6d5852d2efd61bb0a290ba73d50fcb3e4b1423efa7a748e6afab1a07"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A608",
+      "id": "27:608",
+      "name": "PowerPlatform_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powerplatform-scalable--27-608.svg",
+      "sha256": "d23c11bcc255d1f3b03762253b82cc1cbd9bfa830da78f7567bb30a9f67ba5d6"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120288",
+      "id": "28:120288",
+      "name": "PowerPoint",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powerpoint--28-120288.svg",
+      "sha256": "864b67e706d3aee16912e08e87ed941a3537bb55938fc3841c795c2fc5a5bb74"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=27%3A616",
+      "id": "27:616",
+      "name": "PowerVirtualAgents_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/powervirtualagents-scalable--27-616.svg",
+      "sha256": "ee0742a7016437fb8995c80614058bf6e7b566df901021446aeec224def133b5"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=690%3A2975",
+      "id": "690:2975",
+      "name": "Priva",
+      "page": "Icons",
+      "path": "icons/icons--0-1/priva--690-2975.svg",
+      "sha256": "2d17e5b23ed64bc9949f5058355b463acc4b8b8f986805fc0cb194b0df957ec3"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120315",
+      "id": "28:120315",
+      "name": "Product_Insights__scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/product-insights-scalable--28-120315.svg",
+      "sha256": "d72272231f2d2ade01fdc1fc0c8b88275c6da9cc7b362b538411cce1a88773c1"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120330",
+      "id": "28:120330",
+      "name": "ProductVisualize_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/productvisualize-scalable--28-120330.svg",
+      "sha256": "6369f0f1723868595565f44186c0ee35b50e5b19b3978a97c508e4a1a878f09b"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120291",
+      "id": "28:120291",
+      "name": "Project",
+      "page": "Icons",
+      "path": "icons/icons--0-1/project--28-120291.svg",
+      "sha256": "f7edd63e9362ae34bdc3df9b164bffe76eabbe6df06a468f3a0a162f09f42afb"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120314",
+      "id": "28:120314",
+      "name": "ProjectOperations_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/projectoperations-scalable--28-120314.svg",
+      "sha256": "cd1dfce569b489b52bfef46a5ce92fe802661e9434f897fbfd1a960a0a72b72f"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120313",
+      "id": "28:120313",
+      "name": "ProjectServiceAutomation_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/projectserviceautomation-scalable--28-120313.svg",
+      "sha256": "01417186f57bdfd06c569572d5dfad3928b94e9ee33b53d60a05e3bc1f8c88c4"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=690%3A3010",
+      "id": "690:3010",
+      "name": "Purview",
+      "page": "Icons",
+      "path": "icons/icons--0-1/purview--690-3010.svg",
+      "sha256": "9a6fc4190e6fc9ed4896768b2c54f247c29651e6a04ec7122d446413165700b9"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120329",
+      "id": "28:120329",
+      "name": "RemoteAssist_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/remoteassist-scalable--28-120329.svg",
+      "sha256": "e36437282a2e873e05a2763991408a36c55ac48437ec8bea946d51ea5e6cb0c5"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120311",
+      "id": "28:120311",
+      "name": "Sales_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/sales-scalable--28-120311.svg",
+      "sha256": "02462059cc4febdbbda33356f40109d10bb58f75d95c5b211b2c28687de50b23"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120310",
+      "id": "28:120310",
+      "name": "SalesInsights_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/salesinsights-scalable--28-120310.svg",
+      "sha256": "d25def2b3f1933e6d60de8272f0d1c343674556aaee167483b9b58ca2a05e73a"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120299",
+      "id": "28:120299",
+      "name": "Sharepoint",
+      "page": "Icons",
+      "path": "icons/icons--0-1/sharepoint--28-120299.svg",
+      "sha256": "ac3dc474593d90f9b3f0505c6feadb3dc02cd9c4de596a6b929f87774d5ea151"
+    },
+    {
+      "contains_raster": true,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120293",
+      "id": "28:120293",
+      "name": "Stream",
+      "page": "Icons",
+      "path": "icons/icons--0-1/stream--28-120293.svg",
+      "sha256": "4835ebc88694e2f610fc72646221bc0906d3814c5671863c7c2232cd62fd125d"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120312",
+      "id": "28:120312",
+      "name": "SupplyChainManagement_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/supplychainmanagement-scalable--28-120312.svg",
+      "sha256": "070f2db9f74b81e789c176551da72c8f355ae84d8b8f7fe5defb3f1593001bfc"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120309",
+      "id": "28:120309",
+      "name": "SustainabilityCalculator_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/sustainabilitycalculator-scalable--28-120309.svg",
+      "sha256": "74bf01d34233386ba3ea4a68163feaebf44b85af0723ce7e559135e4d469bfeb"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=108%3A96",
+      "id": "108:96",
+      "name": "Sway",
+      "page": "Icons",
+      "path": "icons/icons--0-1/sway--108-96.svg",
+      "sha256": "1691689df12c79d3d64d84a9c75bb722e1ad34ff27374d6d2c6987041ab4218f"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3450",
+      "id": "694:3450",
+      "name": "Synapse Data",
+      "page": "Icons",
+      "path": "icons/icons--0-1/synapse-data--694-3450.svg",
+      "sha256": "b01219af9f6fd448afa3f2277aca2c28ea921bdf0b6655e347c99b5be2984391"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3448",
+      "id": "694:3448",
+      "name": "Synapse Data Engineering",
+      "page": "Icons",
+      "path": "icons/icons--0-1/synapse-data-engineering--694-3448.svg",
+      "sha256": "cfd4bb5c318ef255a390fe33337bad65eea9a66b2df0935316b776743f7441a4"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3447",
+      "id": "694:3447",
+      "name": "Synapse Data Warehouse",
+      "page": "Icons",
+      "path": "icons/icons--0-1/synapse-data-warehouse--694-3447.svg",
+      "sha256": "2056dd42bfb0a8b0b39d24a2f3a952bdc25e36f596ad0b09e220480dd7c5bed9"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A3446",
+      "id": "694:3446",
+      "name": "Synapse Real Time Analytics",
+      "page": "Icons",
+      "path": "icons/icons--0-1/synapse-real-time-analytics--694-3446.svg",
+      "sha256": "73fcf58d15cbd303d48de4957447055bd1f73ccb828fdd903a2629707a1a2cc7"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120308",
+      "id": "28:120308",
+      "name": "Talent_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/talent-scalable--28-120308.svg",
+      "sha256": "db26f2b2486e505db6898fd9bc36f77e305f142a0933a49b0c0d3406bca6bd4d"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120307",
+      "id": "28:120307",
+      "name": "TalentAttract_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/talentattract-scalable--28-120307.svg",
+      "sha256": "d59412c1f5eab9cc5cbc6c391d09421d850868c2b0eda45b088f028f859df896"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120306",
+      "id": "28:120306",
+      "name": "TalentOnboard_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/talentonboard-scalable--28-120306.svg",
+      "sha256": "bda44f7e05415dbde7f58d7ba6fd98863c3aa63219e17482cbca49cfc2cc480a"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120297",
+      "id": "28:120297",
+      "name": "Teams",
+      "page": "Icons",
+      "path": "icons/icons--0-1/teams--28-120297.svg",
+      "sha256": "287be4200a8ffde583588b3f2956e5ef45a219a474ce6c64ac404650edffdd81"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=694%3A6346",
+      "id": "694:6346",
+      "name": "Teams_B&W",
+      "page": "Icons",
+      "path": "icons/icons--0-1/teams-b-w--694-6346.svg",
+      "sha256": "a12fa30199362ede6e164322d64b7dc83fd58d9fac25072c13d46dbc67edce19"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=108%3A150",
+      "id": "108:150",
+      "name": "To Do",
+      "page": "Icons",
+      "path": "icons/icons--0-1/to-do--108-150.svg",
+      "sha256": "f9e469dca4807fbd4c46895244915c2b2e0f5a5ae7e1d9dd3db72dd0dea04928"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3640",
+      "id": "3:3640",
+      "name": "Viva Amplify",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-amplify--3-3640.svg",
+      "sha256": "8c2e6ed47db7f9252cfe1640bac39b61880fddce2488d68b0aac35308460b538"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3634",
+      "id": "3:3634",
+      "name": "Viva Connections",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-connections--3-3634.svg",
+      "sha256": "7ed2a5b35fdab4b2381db4bda055fa5deafae38131688c844d7a5ff6b6d81b77"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3633",
+      "id": "3:3633",
+      "name": "Viva Engage",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-engage--3-3633.svg",
+      "sha256": "7ee786110e1e0cacc84f8bb354fe77c4f4cca71376b20f40c5747919c678fc74"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=403%3A15",
+      "id": "403:15",
+      "name": "Viva Glint",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-glint--403-15.svg",
+      "sha256": "f31a60898b01690b6c256f5d4a2c0009a1a2fa19ccd177e4f4ee485eeb1ae1c7"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3638",
+      "id": "3:3638",
+      "name": "Viva Goals",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-goals--3-3638.svg",
+      "sha256": "0e96fa92f8bd96b065ca0f3f448c6364366dcf2a0ec7e8852b5b03dc4d5626c1"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3635",
+      "id": "3:3635",
+      "name": "Viva Insights",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-insights--3-3635.svg",
+      "sha256": "6ff954c6dd749835e51f75e7b94f6d8dac301d7a8f39b6d8d6e07cc9d15ef6cb"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3637",
+      "id": "3:3637",
+      "name": "Viva Learning",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-learning--3-3637.svg",
+      "sha256": "9b7cbd14d5ed68593ab06d616170bd215b109e5c23bc134a82f7bf6c2a2dbf33"
+    },
+    {
+      "contains_raster": true,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3641",
+      "id": "3:3641",
+      "name": "Viva Pulse",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-pulse--3-3641.svg",
+      "sha256": "e14f7a74854fa861976be95458891c6b11c5e216af8470fdd6a9c69bdf2be959"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=3%3A3632",
+      "id": "3:3632",
+      "name": "Viva Suite",
+      "page": "Icons",
+      "path": "icons/icons--0-1/viva-suite--3-3632.svg",
+      "sha256": "093bd7d572f78a406036034e86bf7675ec08454e9b8c6d7b40ee76d983a075d2"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120328",
+      "id": "28:120328",
+      "name": "VoiceAssistant_scalable",
+      "page": "Icons",
+      "path": "icons/icons--0-1/voiceassistant-scalable--28-120328.svg",
+      "sha256": "9e94260471f3a4c71ddb70de2a4dd532263a156f5c49476a73f99feed7f1b189"
+    },
+    {
+      "contains_raster": false,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=545%3A73",
+      "id": "545:73",
+      "name": "Windows 11",
+      "page": "Icons",
+      "path": "icons/icons--0-1/windows-11--545-73.svg",
+      "sha256": "118db30f20bdb6171417419c5cb416fb3e6536eaf83fc719eafa3fcb0a600fda"
+    },
+    {
+      "contains_raster": true,
+      "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=28%3A120290",
+      "id": "28:120290",
+      "name": "Word",
+      "page": "Icons",
+      "path": "icons/icons--0-1/word--28-120290.svg",
+      "sha256": "3db29341d623f6ec6ec18835cba8062246d493e0d8d5841d9f1d6d7298504a2e"
+    }
+  ],
+  "initial_export_source": "Figma Plugin API; REST version recorded on first automated sync",
+  "schema_version": 1
+}

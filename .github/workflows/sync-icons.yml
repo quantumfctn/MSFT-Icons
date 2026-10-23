@@ -1,0 +1,62 @@
+name: Sync icons from Figma
+
+on:
+  push:
+    paths:
+      - figma-sync.json
+      - scripts/sync_icons.py
+      - .github/workflows/sync-icons.yml
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Re-export even if the Figma version has not changed
+        type: boolean
+        default: false
+  schedule:
+    - cron: '17 9 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: figma-icon-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test the exporter
+        run: python -m unittest discover -s tests -v
+      - name: Export SVGs
+        env:
+          FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
+          FIGMA_FILE_KEY: ${{ vars.FIGMA_FILE_KEY }}
+          FORCE_EXPORT: ${{ inputs.force }}
+        run: |
+          args=()
+          if [ "$FORCE_EXPORT" = "true" ]; then args+=(--force); fi
+          python scripts/sync_icons.py "${args[@]}"
+      - name: Commit changes
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git add -- icons
+          if git diff --cached --quiet; then
+            echo "No icon changes to commit."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: sync icons from Figma'
+          git push origin "HEAD:$DEFAULT_BRANCH"
