@@ -1,6 +1,6 @@
 {
   "config_hash": "7198728b8c8d46e6edddef77b747d75f3aaa27f64bd048f5886045b0759c8443",
-  "figma_version": null,
+  "figma_version": "2408065262403024421",
   "file_key": "Dc9hrEER6fgmrXVmOIImJT",
   "icons": [
     {
@@ -10,7 +10,7 @@
       "name": "Purview",
       "page": "Archive",
       "path": "icons/archive--686-155/purview--109-959.svg",
-      "sha256": "476a3eada5bf6071913be33a7222a719839c03328c25f6375e0a3d3676e0e6c0"
+      "sha256": "faa91bc1eca6c439aeaf5c1bce64684d2e590d13699b4e506349f65579ea052b"
     },
     {
       "contains_raster": true,
@@ -19,7 +19,7 @@
       "name": "Skype",
       "page": "Archive",
       "path": "icons/archive--686-155/skype--28-120294.svg",
-      "sha256": "6198157251e0b8474876a05c477f15aa3506344509678f6deb9da753fb0e41a1"
+      "sha256": "44b6d728cd4223f994141ba97ff81ab89254c5ad04f5afd06da2070b8160caa4"
     },
     {
       "contains_raster": false,
@@ -109,7 +109,7 @@
       "name": "Azure AI Studio",
       "page": "Icons",
       "path": "icons/icons--0-1/azure-ai-studio--677-49.svg",
-      "sha256": "999e565c11dcbaaf02de0ed894797364c1cfa2c699958f8c1febb4c4cbea351f"
+      "sha256": "94e9d994696e3fbeaae7f1da8d6b74ab751d5ce199f37476ce332058bb6fe5ca"
     },
     {
       "contains_raster": false,
@@ -127,7 +127,7 @@
       "name": "BusinessCentral_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/businesscentral-scalable--28-120305.svg",
-      "sha256": "f8d0773574eb31b6fc98ad8648826c2192d98c9ee4fbe8fb0ec06a67f4e23cca"
+      "sha256": "05644f36e700f664e4a440247cdc1f70b70ff0ac55b2baae58c5755feeab0dd0"
     },
     {
       "contains_raster": false,
@@ -172,7 +172,7 @@
       "name": "ConnectedStore_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/connectedstore-scalable--28-120303.svg",
-      "sha256": "8c52a694b118e97c65b6fb9bd5c86bd63f9109c331f4718727da4d919af2cb11"
+      "sha256": "9bcea1f769eb8cbaf3d416131944ee28053770b35533dc13d4ce14e791cc466a"
     },
     {
       "contains_raster": false,
@@ -190,7 +190,7 @@
       "name": "Copilot Cowork",
       "page": "Icons",
       "path": "icons/icons--0-1/copilot-cowork--2923-219.svg",
-      "sha256": "ca9d42aae828c0dcb166181706d0e67cfdf19cf7a840ed58c23507c480923f24"
+      "sha256": "b476d48eec8e1e8ee36b8aa344e13bb087a65cd808a22ffd9db38f727f1c82b3"
     },
     {
       "contains_raster": false,
@@ -217,7 +217,7 @@
       "name": "Copilot for Security",
       "page": "Icons",
       "path": "icons/icons--0-1/copilot-for-security--686-154.svg",
-      "sha256": "ca9d42aae828c0dcb166181706d0e67cfdf19cf7a840ed58c23507c480923f24"
+      "sha256": "b476d48eec8e1e8ee36b8aa344e13bb087a65cd808a22ffd9db38f727f1c82b3"
     },
     {
       "contains_raster": false,
@@ -226,7 +226,7 @@
       "name": "Copilot for Service",
       "page": "Icons",
       "path": "icons/icons--0-1/copilot-for-service--686-153.svg",
-      "sha256": "168316bc96f7ef09163a674e340029a709757e33d13615b5c68d42b733005fd1"
+      "sha256": "90bd118313e5346ed88f54854ca2ddaa6e4e52f835149d09c87662065d5fcad2"
     },
     {
       "contains_raster": false,
@@ -271,7 +271,7 @@
       "name": "Copilot Outline",
       "page": "Icons",
       "path": "icons/icons--0-1/copilot-outline--621-32.svg",
-      "sha256": "65f834eb5767f41a8d1237873e4a44171bccb4abb76488f6b4909252d1358dc4"
+      "sha256": "570dfc0a3b1af5c5826cba135293b9d34a259a05b1e2e3b22582b661a8750bea"
     },
     {
       "contains_raster": false,
@@ -280,7 +280,7 @@
       "name": "Copilot Outline in Excel",
       "page": "Icons",
       "path": "icons/icons--0-1/copilot-outline-in-excel--546-319.svg",
-      "sha256": "1c14571b22fc5efe521d3728cfef9aa340dfde49c326b0fe4b0f8e567dff85fb"
+      "sha256": "3cec3a85fc7c689be16d54d8bdf771d759e4b1eb581850b1e7bb72001d588172"
     },
     {
       "contains_raster": false,
@@ -289,7 +289,7 @@
       "name": "Copilot Outline in PowerPoint",
       "page": "Icons",
       "path": "icons/icons--0-1/copilot-outline-in-powerpoint--546-320.svg",
-      "sha256": "637d024331c0e13e04a551b326a8b2e248710e3cacd1c64656619fa30fc253e8"
+      "sha256": "669e126cea119e9a5a422ee9566234c16ff2b5c947e7ee47e5e51e8d48a4e06f"
     },
     {
       "contains_raster": false,
@@ -298,7 +298,7 @@
       "name": "Copilot Outline in Word",
       "page": "Icons",
       "path": "icons/icons--0-1/copilot-outline-in-word--546-280.svg",
-      "sha256": "22e30237f547fa4fb0bcdbedc88e4d0826a7c4b223e00e44d2545f231b0c72c8"
+      "sha256": "19a3adfb80d06227662093d3e4a140d266ea83e1a4004358e49d38d7aecb6667"
     },
     {
       "contains_raster": false,
@@ -316,7 +316,7 @@
       "name": "CoreHR_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/corehr-scalable--28-120302.svg",
-      "sha256": "9e0146b0cda2df5db11ef884b8703b687e1c681178a5bdd3ab4344b0556e9b2d"
+      "sha256": "6b7958237bc6ad80be9d1337421a5996af8c9d27609feb95374d0832d3dd97bd"
     },
     {
       "contains_raster": false,
@@ -325,7 +325,7 @@
       "name": "CustomerInsights_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/customerinsights-scalable--28-120301.svg",
-      "sha256": "3a431f53880c1361f8bf8fb04e44d1a1917883108703eb6d9c81432618a9ffab"
+      "sha256": "8163c5226497062d7d79ab4848c8a815939e947847a6e9eabf3f1a23fa1faf3f"
     },
     {
       "contains_raster": false,
@@ -334,7 +334,7 @@
       "name": "CustomerService_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/customerservice-scalable--28-120325.svg",
-      "sha256": "ed98abd4ed60d422ae7e7b7ee99432b519e2ad4a73df2e1ed49e1fd614a02d39"
+      "sha256": "b53d3c9d43af648796fb4c42c45a5e22e9555a34648749a63e23163a79e9bb51"
     },
     {
       "contains_raster": false,
@@ -352,7 +352,7 @@
       "name": "CustomerVoice_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/customervoice-scalable--28-120323.svg",
-      "sha256": "eb7d4ecf88f448dd0c5cc666e6e84a58290b3ee3899c7e65413f916cb5e59e02"
+      "sha256": "3b421913824bccbebe3b224853d5ee957e9c4d5d714507d2e96e93f27d886683"
     },
     {
       "contains_raster": false,
@@ -379,7 +379,7 @@
       "name": "Dataverse_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/dataverse-scalable--27-615.svg",
-      "sha256": "397280835a97f81c6804b6d3c3b430185e51838c56829ec2dc5d8390843fee33"
+      "sha256": "69c5c3701f6e4d45c0e6ffbcb3bff329c2eba058adeb3bec32ae8cb01515ebd5"
     },
     {
       "contains_raster": false,
@@ -433,7 +433,7 @@
       "name": "Excel",
       "page": "Icons",
       "path": "icons/icons--0-1/excel--28-120289.svg",
-      "sha256": "ffc28308639cde94789372df5fb4cbff1c22ec808dd9ebbd9947054ca25b2620"
+      "sha256": "43ef4cbc4390671c361d6d4129e266d12b24e164abec719dda8af671fd8e7e3c"
     },
     {
       "contains_raster": false,
@@ -442,7 +442,7 @@
       "name": "Fabric",
       "page": "Icons",
       "path": "icons/icons--0-1/fabric--693-3292.svg",
-      "sha256": "854c6abb2c13a6375dc5d272182ed5d24269b8fa986d2f678b396f49818f87dc"
+      "sha256": "975e7d3cb1251b87117e6ec777a99d28cce78a4d452b3a31933df6a6f7d0c8a8"
     },
     {
       "contains_raster": false,
@@ -451,7 +451,7 @@
       "name": "FieldService_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/fieldservice-scalable--28-120322.svg",
-      "sha256": "661d446ed1796b2dd188cde3a6bcfd12b6171da5fd1d599a0845b2265593fb31"
+      "sha256": "9b85d671f4d554c0999d58f033553378bb92af9008da0d88c757132c4949b346"
     },
     {
       "contains_raster": false,
@@ -460,7 +460,7 @@
       "name": "Finance+Operations_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/finance-operations-scalable--28-120320.svg",
-      "sha256": "7f4dbf92f4f317cab8f9280479ded25e0701ccecb6f80e4c0be76c3505c6ee96"
+      "sha256": "f1284af4af860d5f6660b03cc23696f125f0e4e545f8f4e265e74d2e98185d74"
     },
     {
       "contains_raster": false,
@@ -487,7 +487,7 @@
       "name": "FraudProtection_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/fraudprotection-scalable--28-120319.svg",
-      "sha256": "cc2d65c01f007f9b74c32540289ae7157738cb60e2203aa891f09fa66946e8c4"
+      "sha256": "48805f6c344750a41964235b3f82bf5a3905ff49cf1984235882d26b76d7d973"
     },
     {
       "contains_raster": false,
@@ -496,7 +496,7 @@
       "name": "GitHub",
       "page": "Icons",
       "path": "icons/icons--0-1/github--734-2165.svg",
-      "sha256": "69558381887a55bef1aaf6a772beb6d7935231276d8682a456ea357437f8ad42"
+      "sha256": "34f7fc07a6042642222568abe9221aad5a1d852395e4f28a8e911f635b05adbb"
     },
     {
       "contains_raster": false,
@@ -514,7 +514,7 @@
       "name": "Guides_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/guides-scalable--28-120327.svg",
-      "sha256": "b7220d421e6f36a832cbaa624c8f8154f9dd9b7d0c020fe33eebc880a393e1d8"
+      "sha256": "0969455cf7321ccf27fd3ca49a9811553de86787313aed515d533feae2cf61cb"
     },
     {
       "contains_raster": false,
@@ -568,7 +568,7 @@
       "name": "Marketing_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/marketing-scalable--28-120317.svg",
-      "sha256": "c1e10ebfec9c0e1756a3bae53df9a4850fe263098c46570b9b0766a4163c931b"
+      "sha256": "75222a44ec68178ef120a7936cf6dfd0ea8e8330145ffcd9eb6a2e522666b523"
     },
     {
       "contains_raster": false,
@@ -595,7 +595,7 @@
       "name": "Microsoft 365 Copilot",
       "page": "Icons",
       "path": "icons/icons--0-1/microsoft-365-copilot--2702-184.svg",
-      "sha256": "088f7615105fa9f1a44a1a0d7ad52d0d3f269bad62c25bcf29248f581e08b551"
+      "sha256": "7e4548866989be988435e2606e340c1cef72f8d6cc333ae23e528e657f9050f8"
     },
     {
       "contains_raster": false,
@@ -640,7 +640,7 @@
       "name": "OneDrive",
       "page": "Icons",
       "path": "icons/icons--0-1/onedrive--28-120298.svg",
-      "sha256": "74a43ea222814a7f6170b20795ee0655d3c4073d2e16d59bd85ab84147086f7b"
+      "sha256": "89378a612afca1c6fbc1166d04b3c94d46295c37e6923e73c081d8be399a6620"
     },
     {
       "contains_raster": false,
@@ -649,7 +649,7 @@
       "name": "OneLake",
       "page": "Icons",
       "path": "icons/icons--0-1/onelake--694-3451.svg",
-      "sha256": "2f556173906c218766e086c6a88013779fee2ab1b641ad5875e43e43cd949363"
+      "sha256": "ee9c6aad7c49b7c834b2c5852b3dd6de757ee18e919949f8b56723fdecd7c8fb"
     },
     {
       "contains_raster": false,
@@ -667,7 +667,7 @@
       "name": "Outlook",
       "page": "Icons",
       "path": "icons/icons--0-1/outlook--28-120295.svg",
-      "sha256": "90d5ac614174d8ead4de2e2892f09cbc87257374dc71ad5e220e83609897a374"
+      "sha256": "6b2bfa96d32eda94561b1b59b8259555705f12e01af53681be39b034410fef5f"
     },
     {
       "contains_raster": false,
@@ -676,7 +676,7 @@
       "name": "Outlook_B&W",
       "page": "Icons",
       "path": "icons/icons--0-1/outlook-b-w--694-3464.svg",
-      "sha256": "c21b54fceecfc4938d60b0d02caf7aba341f2a51cc2b1347f9665a8b58927cb1"
+      "sha256": "aec61cd8005d19522067972b294b6f73ad0635e83fee1a54376b74b953a05285"
     },
     {
       "contains_raster": false,
@@ -784,16 +784,16 @@
       "name": "PowerVirtualAgents_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/powervirtualagents-scalable--27-616.svg",
-      "sha256": "ee0742a7016437fb8995c80614058bf6e7b566df901021446aeec224def133b5"
+      "sha256": "c4b17bc851406f8fcb1a9c8f484610c9eefea22aa2197c2fa2c15e4eba2d106e"
     },
     {
-      "contains_raster": false,
+      "contains_raster": true,
       "figma_url": "https://www.figma.com/design/Dc9hrEER6fgmrXVmOIImJT?node-id=690%3A2975",
       "id": "690:2975",
       "name": "Priva",
       "page": "Icons",
       "path": "icons/icons--0-1/priva--690-2975.svg",
-      "sha256": "2d17e5b23ed64bc9949f5058355b463acc4b8b8f986805fc0cb194b0df957ec3"
+      "sha256": "a551b36ab439d69183f8bce9e612922d47566efba84ed0efb7422f397495935d"
     },
     {
       "contains_raster": false,
@@ -802,7 +802,7 @@
       "name": "Product_Insights__scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/product-insights-scalable--28-120315.svg",
-      "sha256": "d72272231f2d2ade01fdc1fc0c8b88275c6da9cc7b362b538411cce1a88773c1"
+      "sha256": "e36269daed166faed3f3f6f33a585e8172374905edc632182c1249f8538f2127"
     },
     {
       "contains_raster": false,
@@ -811,7 +811,7 @@
       "name": "ProductVisualize_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/productvisualize-scalable--28-120330.svg",
-      "sha256": "6369f0f1723868595565f44186c0ee35b50e5b19b3978a97c508e4a1a878f09b"
+      "sha256": "142814727281cd1541de5d7cafdeca15ceef858f5ffbe6b9cad26fb8457471a8"
     },
     {
       "contains_raster": false,
@@ -856,7 +856,7 @@
       "name": "RemoteAssist_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/remoteassist-scalable--28-120329.svg",
-      "sha256": "e36437282a2e873e05a2763991408a36c55ac48437ec8bea946d51ea5e6cb0c5"
+      "sha256": "812206c1caa85bfbda8c60e4ca7f54c80f9d9c3d318a6308c95548411ab41ac6"
     },
     {
       "contains_raster": false,
@@ -865,7 +865,7 @@
       "name": "Sales_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/sales-scalable--28-120311.svg",
-      "sha256": "02462059cc4febdbbda33356f40109d10bb58f75d95c5b211b2c28687de50b23"
+      "sha256": "a0ac19472f3020bc3cb9733f1cf0fc4001a7babd42d2e3979fe5deced0aa7610"
     },
     {
       "contains_raster": false,
@@ -874,7 +874,7 @@
       "name": "SalesInsights_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/salesinsights-scalable--28-120310.svg",
-      "sha256": "d25def2b3f1933e6d60de8272f0d1c343674556aaee167483b9b58ca2a05e73a"
+      "sha256": "556a368fe23ab9f4e9e7f366a2a1754353db05a7e9cab5ab25bebe68bf74309e"
     },
     {
       "contains_raster": false,
@@ -901,7 +901,7 @@
       "name": "SupplyChainManagement_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/supplychainmanagement-scalable--28-120312.svg",
-      "sha256": "070f2db9f74b81e789c176551da72c8f355ae84d8b8f7fe5defb3f1593001bfc"
+      "sha256": "adfafa609b8b4cd544951d8d9e5b369953c5e7e7638eb2f47d925bd920bf3e5e"
     },
     {
       "contains_raster": false,
@@ -937,7 +937,7 @@
       "name": "Synapse Data Engineering",
       "page": "Icons",
       "path": "icons/icons--0-1/synapse-data-engineering--694-3448.svg",
-      "sha256": "cfd4bb5c318ef255a390fe33337bad65eea9a66b2df0935316b776743f7441a4"
+      "sha256": "ef9d03aca2593a4a7b20ecf47634c667923f87f8a1a1524e35a8a5d7e6da2efa"
     },
     {
       "contains_raster": false,
@@ -973,7 +973,7 @@
       "name": "TalentAttract_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/talentattract-scalable--28-120307.svg",
-      "sha256": "d59412c1f5eab9cc5cbc6c391d09421d850868c2b0eda45b088f028f859df896"
+      "sha256": "c3b158ae6eda1ee7fd0fe969f46eb018ca2f9633a1234968fb8d49b04c3a970e"
     },
     {
       "contains_raster": false,
@@ -982,7 +982,7 @@
       "name": "TalentOnboard_scalable",
       "page": "Icons",
       "path": "icons/icons--0-1/talentonboard-scalable--28-120306.svg",
-      "sha256": "bda44f7e05415dbde7f58d7ba6fd98863c3aa63219e17482cbca49cfc2cc480a"
+      "sha256": "f38025a889ae549078e710bc8971a8e306d613bf2d2c4d6d6fa378a831fcdfa9"
     },
     {
       "contains_raster": false,
@@ -991,7 +991,7 @@
       "name": "Teams",
       "page": "Icons",
       "path": "icons/icons--0-1/teams--28-120297.svg",
-      "sha256": "287be4200a8ffde583588b3f2956e5ef45a219a474ce6c64ac404650edffdd81"
+      "sha256": "71f26103d8a642209627cf83a2ce544d4281fd1228e0b8c1f473d3a9f9fc4fa1"
     },
     {
       "contains_raster": false,
@@ -1000,7 +1000,7 @@
       "name": "Teams_B&W",
       "page": "Icons",
       "path": "icons/icons--0-1/teams-b-w--694-6346.svg",
-      "sha256": "a12fa30199362ede6e164322d64b7dc83fd58d9fac25072c13d46dbc67edce19"
+      "sha256": "91aaaa60e7f3520b241040bf17f206d246e0d30cfc067c9ee355030c5ff3c3b3"
     },
     {
       "contains_raster": false,
@@ -1117,9 +1117,8 @@
       "name": "Word",
       "page": "Icons",
       "path": "icons/icons--0-1/word--28-120290.svg",
-      "sha256": "3db29341d623f6ec6ec18835cba8062246d493e0d8d5841d9f1d6d7298504a2e"
+      "sha256": "745b1114e82bff6e97d7be5ffb325d97fb365a4e56acad7110dd0b671c120673"
     }
   ],
-  "initial_export_source": "Figma Plugin API; REST version recorded on first automated sync",
   "schema_version": 1
 }
